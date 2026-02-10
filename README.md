@@ -68,14 +68,14 @@ The results show strong end-of-year seasonality, with **December driving peak pe
 ### Sales Volume by City
 This pie chart shows the distribution of total sales across major cities in Mexico and Colombia, highlighting where demand is most concentrated.
 
-![Sales Volume by City](screenshots/pie_chart_sales_by_city.png)
+![Sales Volume by City](pie_chart_sales_by_city.png)
 
 ---
 
 ### Daily Items Sold (Oct–Dec 2024)
 This line chart illustrates daily sales trends throughout Q4 2024, revealing increased activity toward the end of the quarter.
 
-![Daily Sales Trend](screenshots/line_chart_daily_sales.png)
+![Daily Sales Trend](line_chart_daily_sales.png)
 
 ---
 
